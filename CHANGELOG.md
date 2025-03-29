@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-03-10)
+## Unreleased (2025-03-29)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`056fbe0`](https://github.com/stdlib-js/stdlib/commit/056fbe0e0a1644520845f637cf69fcfa1cea2fda) - **refactor:** update paths _(by Aayush Khanna)_
 -   [`5bd3138`](https://github.com/stdlib-js/stdlib/commit/5bd3138acf5f8f1354306bd813da484505f1f7f9) - **refactor:** update `stats/base/snanvariancepn` native addon from C++ to C [(#5286)](https://github.com/stdlib-js/stdlib/pull/5286) _(by Prashant Kumar Yadav)_
 -   [`62364f6`](https://github.com/stdlib-js/stdlib/commit/62364f62ea823a3b52c2ad25660ecd80c71f8f36) - **style:** fix C comment alignment _(by Philipp Burckhardt)_
 -   [`9e689ff`](https://github.com/stdlib-js/stdlib/commit/9e689ffcb7c6223afc521f1e574b42f10921cf5e) - **chore:** fix indentation in manifest.json files _(by Philipp Burckhardt)_
@@ -28,8 +29,9 @@
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
+-   Aayush Khanna
 -   Athan Reines
 -   Philipp Burckhardt
 -   Prashant Kumar Yadav
