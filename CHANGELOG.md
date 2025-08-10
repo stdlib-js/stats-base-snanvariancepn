@@ -4,7 +4,19 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-07-17)
+## Unreleased (2025-08-10)
+
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#7842](https://github.com/stdlib-js/stdlib/issues/7842)
+
+</section>
+
+<!-- /.issues -->
 
 <section class="commits">
 
@@ -12,6 +24,7 @@
 
 <details>
 
+-   [`6d4aa11`](https://github.com/stdlib-js/stdlib/commit/6d4aa112f7d3eb6e5edaa058484fd833ead94c33) - **chore:** fix C lint errors [(#7843)](https://github.com/stdlib-js/stdlib/pull/7843) _(by GeoDaoyu)_
 -   [`61c4728`](https://github.com/stdlib-js/stdlib/commit/61c4728812031ccccd496101dd7a87d13782b562) - **refactor:** update paths _(by Gururaj Gurram)_
 -   [`fbce42c`](https://github.com/stdlib-js/stdlib/commit/fbce42c8ae4ce2a5517960942d70ce4eaef15c3e) - **refactor:** update paths _(by Aayush Khanna)_
 -   [`056fbe0`](https://github.com/stdlib-js/stdlib/commit/056fbe0e0a1644520845f637cf69fcfa1cea2fda) - **refactor:** update paths _(by Aayush Khanna)_
@@ -31,10 +44,11 @@
 
 ### Contributors
 
-A total of 5 people contributed to this release. Thank you to the following contributors:
+A total of 6 people contributed to this release. Thank you to the following contributors:
 
 -   Aayush Khanna
 -   Athan Reines
+-   GeoDaoyu
 -   Gururaj Gurram
 -   Philipp Burckhardt
 -   Prashant Kumar Yadav
